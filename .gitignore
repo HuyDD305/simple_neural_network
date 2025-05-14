@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VSCode settings (if applicable)
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Jupyter runtime files
+~/.local/share/jupyter/
+~/.ipython/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Output files
+*.out
+*.pdf
+*.csv
+*.tsv
+*.sqlite3
+*.db
+
+# Data (optional — only if you don't want to commit large datasets)
+data/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Environment/config files
+.env
+*.env
+*.yaml
+*.yml
+*.toml
+*.cfg
+*.ini
